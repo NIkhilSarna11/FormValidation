@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "427216304129",
+    "firebase_url": "https://gndec-b48d5.firebaseio.com",
+    "project_id": "gndec-b48d5",
+    "storage_bucket": "gndec-b48d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427216304129:android:2ba15213365783a7",
+        "android_client_info": {
+          "package_name": "com.example.nikhil.formvalidation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427216304129-39fn6777r42f6knn59umc3ivt40ajctr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARQes8zfqEcASHK--bjFBEhBbEvdQt8e0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
